@@ -1,4 +1,5 @@
-<h1 align="center">Testimonials Responsive Cards</h1>
+<h1 align="center"><img src="assets/images/bg-pattern-quotation.svg" height="14px" alt="Scarrow"></img> Testimonials - Responsive Cards
+</h1>
 
 <div align="center">
   <h3>
