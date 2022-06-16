@@ -1,16 +1,12 @@
 <h1 align="center">Testimonials Responsive Cards</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7" target="_blank">Devchallenges.io</a>.
-</div>
-
-<div align="center">
   <h3>
     <a href="https://devpedrom.github.io/testimonials_responsive_cards/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7">
       Challenge
     </a>
   </h3>
